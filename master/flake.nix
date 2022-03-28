@@ -11,8 +11,8 @@
   inputs.src-treesitter_agda-master.ref   = "refs/heads/master";
   inputs.src-treesitter_agda-master.owner = "genotrance";
   inputs.src-treesitter_agda-master.repo  = "nimtreesitter";
-  inputs.src-treesitter_agda-master.dir   = "treesitter_agda";
-  inputs.src-treesitter_agda-master.type  = "github";
+    inputs.src-treesitter_agda-master.dir   = "treesitter_agda";
+inputs.src-treesitter_agda-master.type  = "github";
   
   inputs."nimgen".owner = "nim-nix-pkgs";
   inputs."nimgen".ref   = "master";
